@@ -1,0 +1,12 @@
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\bin\Debug\RESTfulTutorial.Data.dll.config
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\bin\Debug\RESTfulTutorial.Data.dll
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\bin\Debug\RESTfulTutorial.Data.pdb
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\bin\Debug\EntityFramework.dll
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\bin\Debug\EntityFramework.xml
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\obj\Debug\RESTfulTutorial.Data.Migrations.Initialize.resources
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\obj\Debug\RESTfulTutorial.Data.csproj.GenerateResource.Cache
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\obj\Debug\RESTfulTutorial.Data.dll
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\obj\Debug\RESTfulTutorial.Data.pdb
+E:\Git\RestWCF1\RESTfulTutorial-master\RESTfulTutorial.Data\obj\Debug\RESTfulTutorial.Data.csprojResolveAssemblyReference.cache
